@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FoodMenuApp</string>
+    <string name="pasta">Pasta</string>
+    <string name="menu">Menu</string>
+    <string name="pizza" >Pizza</string>
+    <string name="fries">Fries</string>
+    <string name="sandwich">Sandwich</string>
+    <string name="donut">Donuts</string>
+</resources>
